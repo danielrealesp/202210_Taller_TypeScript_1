@@ -1,0 +1,17 @@
+#navigation-bar{
+    background-color: teal;
+}
+
+
+
+#h1-title{
+    display: inline;
+    color: black;
+}
+
+.container-movies{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
